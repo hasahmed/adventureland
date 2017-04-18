@@ -1,0 +1,57 @@
+Inprogress/ current work statuse/ thigns to remember:
+
+trying to make a playing() funciton that would take an animation and return true if its playing and false if its not. 
+
+
+To do list:
+
+-add a strafe mode. When shift is held the player stays in the same direction and animations play the same direction. this allows for easy eventual sling shot use. 
+
+-add the ability to remove items from inventory
+-add the ability to select differant items in the inventory
+
+
+
+things to ask chabane:
+
+    // Ask Chabane for help with: 
+    //- Game Camera
+    //- why is error caused upon loading game originally. Upon refresh error goes away?
+    //-putting multiple background tiling sprites in a seperate file
+    // -overlaying images in a sprite class
+    // -why doesn't keydown:function(){} work in spice class?
+    
+    if player is defined in game.scene.stage at the global scope, why can't i access its properties in brickWallBottom Class?
+    
+    it says in the Bodie(); collide function it can take a paramater for direction dir. dir is supposed to be a string. Ask chabane how to impliment this.
+    
+    when you refer to something in your scene as this.property, how would you access that property later? is it a property of? 
+    
+    
+    
+if (player.x - obj.body.position.x === negative && player.y - obj.y <= obj.body.width * -1 ||  player.y - obj.y => obj.body.width) return 'left'
+
+
+
+if the player is colliding with a wall and while colliding with a wall collides with another wall, then stop the player from moving. 
+
+
+
+
+
+
+print individual words in string function;
+
+var printWord = function(str) {
+	var end = str.indexOf(" ", counter);
+	for (var i = str.length; i >= 0; i--){
+		newStr = str.slice(0, end);
+		end = str.indexOf(" ", newStr.length + 1);
+		console.log(newStr);
+		if (end === -1) break;
+	}
+	//console.log(str.slice(start, end));
+}
+    
+
+    

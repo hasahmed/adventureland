@@ -1,0 +1,24 @@
+Programming Mile 1:
+
+
+Art Milestone 1:
+
+Act 1:
+
+wake up in a room, with no memories.
+    (click or press e to examine items)
+    - "mission one: find out who you are"
+        (in your inventory is a burnt note you can't read)
+        -sub mission 1
+            - go talk to Terrowin
+        the player must go and find out who they are. The player talks to an old man named Terrowin and the tells the old man that they don't know who they are. The old man says he doesn't recognise you, but suggests you go talk to the towns wise woman.
+        -sub mission 2
+            go talk to The Wise Woman.
+                (the wise woman is unexpectedly young: you find out later she is a vampire)
+                IF (you haven't talked to the towns people yet)
+                The Wise Woman says that she wishes that she could help you, but seeing both her and you don't know anything about yourself, there isn't much she can do.
+                ELSE {Well... Could you tell me anything else you know about yourself? -insert what you have learned from the townspeople here-}
+Mission 2:
+    Go explore the town 
+            
+        

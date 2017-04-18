@@ -1,0 +1,14 @@
+Tasks for Kaite to complete in order of importance
+
+    -grass tile
+    
+    -dirt tile
+    
+    -tree
+
+    -Table and chairs for house
+        :use stardew valley for reference
+        
+    -Make an opening title screen
+    
+    -find and choose the fonts to be used in the game. Decide which fonts are used for what. eg dialog, invintory, ect.
